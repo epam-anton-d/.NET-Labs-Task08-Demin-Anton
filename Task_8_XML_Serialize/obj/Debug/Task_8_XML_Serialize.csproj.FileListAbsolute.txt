@@ -1,0 +1,6 @@
+C:\EPAM\Task_8_XML_Serialize\Task_8_XML_Serialize\bin\Debug\Task_8_XML_Serialize.exe.config
+C:\EPAM\Task_8_XML_Serialize\Task_8_XML_Serialize\obj\Debug\Task_8_XML_Serialize.csprojResolveAssemblyReference.cache
+C:\EPAM\Task_8_XML_Serialize\Task_8_XML_Serialize\bin\Debug\Task_8_XML_Serialize.exe
+C:\EPAM\Task_8_XML_Serialize\Task_8_XML_Serialize\bin\Debug\Task_8_XML_Serialize.pdb
+C:\EPAM\Task_8_XML_Serialize\Task_8_XML_Serialize\obj\Debug\Task_8_XML_Serialize.exe
+C:\EPAM\Task_8_XML_Serialize\Task_8_XML_Serialize\obj\Debug\Task_8_XML_Serialize.pdb

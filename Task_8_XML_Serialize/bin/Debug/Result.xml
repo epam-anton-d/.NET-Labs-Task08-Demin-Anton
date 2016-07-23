@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <Fio>Филимонов Антон </Fio>
+    <Birthday>2011-11-11T00:00:00</Birthday>
+    <BankName>ВТБ24</BankName>
+  </Client>
+</ArrayOfClient>
